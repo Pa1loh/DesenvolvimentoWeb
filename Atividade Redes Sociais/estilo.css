@@ -15,11 +15,13 @@
 .espaco {
     padding-top: 40px;
     padding-left: 40px;
+    float: left;
 
 }
 
 .tabela {
     width: 1000px;
-
-
+    float: right;
+    margin-right: 400px;
+    margin-top: 40px;
 }
